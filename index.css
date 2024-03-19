@@ -1,0 +1,56 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+header {
+  background-color: #0056b3;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.team-section {
+  padding: 20px;
+}
+
+.team-category {
+  margin-bottom: 20px;
+}
+
+.team-category h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.team-list {
+  list-style: none;
+}
+
+.team-list li {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #0056b3;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
